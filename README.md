@@ -14,7 +14,6 @@ $$z = h_{neck} + d \cdot \sin(\theta)$$
 ## 🛠️ Implementation
 - **Decoupled Logic:** The kinematics engine is separate from the visualization to allow for integration into real-time control loops.
 - **Safety Constraints:** Software-level validation to prevent mechanical over-extension.
-=======
 # Robot-Kinematics-Sim
 The Tech: Python, NumPy, Matplotlib, Gazebo/URDF.
 
